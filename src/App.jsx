@@ -4,6 +4,7 @@ import Images from "./components/Images/images"
 import Hero from "./components/hero/hero"
 import divider from "./assets/Comapnies Logo.png"
 import Mid from './components/mid/mid'
+import Pen from './components/penultimate/pen'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <img src={divider}/>
       </div>
       <Mid/>
+      <Pen />
       <Images />
     </div>
   )

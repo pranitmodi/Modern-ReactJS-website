@@ -1,0 +1,97 @@
+.firstDiv
+{
+    display: flex;
+    margin: 20px 160px;
+    gap: 30px;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.firstDiv img
+{
+    height: 542px;
+}
+.content
+{
+    margin-top: 230px;
+}
+.content .first
+{
+    color: #71E5FF;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 187.5% */
+    margin-bottom: 10px;
+}
+.content h1
+{
+    background: linear-gradient(90deg, #AE67FA 1.84%, #F49867 102.67%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 10px;
+    line-height: 45px;
+}
+.content .second
+{
+    color: #81AFDD;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+    margin-bottom: 10px;
+    line-height: 30px;
+}
+.content .third
+{
+    color: #FF8A71;
+    font-family: Manrope;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px; /* 187.5% */
+}
+.nextDiv
+{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    margin: 130px 110px;
+    border-radius: 10.724px;
+    border: 1px solid #000;
+    background: linear-gradient(90deg, #AE67FA 1.84%, #F49867 102.67%);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding: 40px 80px;
+}
+.nextDiv .txt
+{
+    width: 80%;
+}
+.nextDiv p
+{
+    color: #0E0E0E;
+    font-family: Manrope;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px; /* 250% */
+}
+.nextDiv h2
+{
+    color: #000;
+    font-family: Manrope;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 45px; /* 187.5% */
+}
+.nextDiv button
+{
+    border-radius: 40px;
+    background: #000;
+    padding: 15px 30px;
+    width: 200px;
+    color: #fff;
+}
