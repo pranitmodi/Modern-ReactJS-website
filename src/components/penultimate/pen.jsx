@@ -22,6 +22,8 @@ const pen = () => {
             </div>
             <button>Get Started</button>
         </div>
+        <h1 className="main-txt">A lot is happening,</h1>
+        <h1 className="main-txt last">We are blogging about it.</h1>
     </div>
   )
 }

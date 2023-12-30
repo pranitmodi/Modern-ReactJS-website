@@ -1,43 +1,45 @@
 import "./mid.css"
+import eclip1 from "../../assets/Ellipse 39.png"
 
 const mid = () => {
   return (
     <div>
       <div className="midMain">
-      <div className="part1">
-        <div className="ele">
-          <div className="rect"></div>
-          <h2>What is GPT-3</h2>
-        </div>
-        <p>We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.</p>
-      </div>
-      <div className="part2">
-        <h1>The possibilities are beyond your imagination</h1>
-        <p>Explore The Library</p>
-      </div>
-      <div className="part3">
-        <div className="txt">
+        <div className="part1">
           <div className="ele">
             <div className="rect"></div>
-            <h2>Chatbots</h2>
+            <h2>What is GPT-3</h2>
           </div>
-          <p>We so opinion friends me message as delight. Whole front do of plate heard oh ought. </p>
+          <p>We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.</p>
         </div>
-        <div className="txt">
-          <div className="ele">
-            <div className="rect"></div>
-            <h2>Knowledgebase</h2>
+        <div className="part2">
+          <h1>The possibilities are beyond your imagination</h1>
+          <p>Explore The Library</p>
+        </div>
+        <div className="part3">
+          <div className="txt">
+            <div className="ele">
+              <div className="rect"></div>
+              <h2>Chatbots</h2>
+            </div>
+            <p>We so opinion friends me message as delight. Whole front do of plate heard oh ought. </p>
           </div>
-          <p>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments.</p>
-        </div>
-        <div className="txt">
-          <div className="ele">
-            <div className="rect"></div>
-            <h2>Education</h2>
+          <div className="txt">
+            <div className="ele">
+              <div className="rect"></div>
+              <h2>Knowledgebase</h2>
+            </div>
+            <p>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments.</p>
           </div>
-          <p>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments.</p>
+          <div className="txt">
+            <div className="ele">
+              <div className="rect"></div>
+              <h2>Education</h2>
+            </div>
+            <p>At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments.</p>
+          </div>
         </div>
-      </div>
+        <img className="elip1" src={eclip1} alt="" />
       </div>
       <div className="after-mid">
         <div className="pos part2">

@@ -94,4 +94,23 @@
     padding: 15px 30px;
     width: 200px;
     color: #fff;
+    font-size: 17px;
+}
+.main-txt
+{
+    font-family: Manrope;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 75px; /* 120.968% */
+    letter-spacing: -2.48px;
+    margin-left: 110px;
+    background: linear-gradient(90deg, #AE67FA 1.84%, #F49867 102.67%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.last
+{
+    margin-bottom: 100px;
 }
