@@ -1,5 +1,7 @@
 # React + Vite
 
+### [Click here](https://pranitmodi-webresponsive-reactjs-site.netlify.app/) for the website preview.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
